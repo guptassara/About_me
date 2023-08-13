@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="name">Ssara Gupta</string>
+    <string name="yellow_star" />
+    <string name="bio" >
+        \nMy name is Ssara.
+        \nI am a college student
+        \nwho loves to explore different aspects of life.
+        \nI enjoy reading books of various genres, from fantasy to non-fiction.
+        \nI also like to play games, both online and offline,
+        \nthat challenge my skills and creativity.
+        \nWatching movies is another hobby of mine
+        \nI am always curious to learn new things and expand my horizons.
+        \nI believe that life is a journey full of surprises and opportunities.
+        \n\nMy name is Ssara.
+        \nI am a college student
+        \nwho loves to explore different aspects of life.
+        \nI enjoy reading books of various genres, from fantasy to non-fiction.
+        \nI also like to play games, both online and offline,
+        \nthat challenge my skills and creativity.
+        \nWatching movies is another hobby of mine
+        \nI am always curious to learn new things and expand my horizons.
+        \nI believe that life is a journey full of surprises and opportunities.
+
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
